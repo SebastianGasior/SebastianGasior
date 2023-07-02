@@ -17,8 +17,5 @@ Here are some of my projects:
 - [Project 4](https://github.com/SebastianGasior/byb_project)
 
 
-## Contact
 
-You can reach me at [email@example.com](mailto:email@example.com).
 
-![Image](image.jpg)
