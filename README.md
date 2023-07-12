@@ -14,7 +14,7 @@ Here are some of my projects:
 - [Project 1](https://github.com/SebastianGasior/sebastiangasior.github.io)
 - [Project 2](https://github.com/SebastianGasior/Data-Science)
 - [Project 3](https://github.com/SebastianGasior/finalCapstone)
-- [Project 4](https://github.com/SebastianGasior/byb_project)
+
 
 
 
