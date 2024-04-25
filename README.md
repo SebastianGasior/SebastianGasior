@@ -14,7 +14,8 @@ Here are some of my projects:
 - [Portfolio](https://github.com/SebastianGasior/sebastiangasior.github.io)
 - [DataScienceBootCamp](https://github.com/SebastianGasior/Data-Science)
 - [FinalCapstoneProject](https://github.com/SebastianGasior/finalCapstone)
-- [DotNetC#](https://github.com/SebastianGasior/DotNetProjects)
+- [MicrosoftCertificateDotNetC#](https://github.com/SebastianGasior/DotNetProjects)
+- [PythonGouProject](https://github.com/SebastianGasior/GoutProject)
 
 
 
