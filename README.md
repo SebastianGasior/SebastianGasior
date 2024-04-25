@@ -11,9 +11,9 @@ I am a passionate developer with expertise in various programming languages.
 
 Here are some of my projects:
 
-- [Project 1](https://github.com/SebastianGasior/sebastiangasior.github.io)
-- [Data Science Boot Camp](https://github.com/SebastianGasior/Data-Science)
-- [Project 3](https://github.com/SebastianGasior/finalCapstone)
+- [Portfolio](https://github.com/SebastianGasior/sebastiangasior.github.io)
+- [DataScienceBootCamp](https://github.com/SebastianGasior/Data-Science)
+- [FinalCapstoneProject](https://github.com/SebastianGasior/finalCapstone)
 
 
 
